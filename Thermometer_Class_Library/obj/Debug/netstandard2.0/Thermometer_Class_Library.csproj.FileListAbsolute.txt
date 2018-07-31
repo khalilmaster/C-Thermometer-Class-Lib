@@ -1,0 +1,8 @@
+/Users/khalilmaster/Projects/Thermometer/Thermometer_Class_Library/Thermometer_Class_Library/bin/Debug/netstandard2.0/Thermometer_Class_Library.deps.json
+/Users/khalilmaster/Projects/Thermometer/Thermometer_Class_Library/Thermometer_Class_Library/bin/Debug/netstandard2.0/Thermometer_Class_Library.dll
+/Users/khalilmaster/Projects/Thermometer/Thermometer_Class_Library/Thermometer_Class_Library/bin/Debug/netstandard2.0/Thermometer_Class_Library.pdb
+/Users/khalilmaster/Projects/Thermometer/Thermometer_Class_Library/Thermometer_Class_Library/obj/Debug/netstandard2.0/Thermometer_Class_Library.csproj.CoreCompileInputs.cache
+/Users/khalilmaster/Projects/Thermometer/Thermometer_Class_Library/Thermometer_Class_Library/obj/Debug/netstandard2.0/Thermometer_Class_Library.AssemblyInfoInputs.cache
+/Users/khalilmaster/Projects/Thermometer/Thermometer_Class_Library/Thermometer_Class_Library/obj/Debug/netstandard2.0/Thermometer_Class_Library.AssemblyInfo.cs
+/Users/khalilmaster/Projects/Thermometer/Thermometer_Class_Library/Thermometer_Class_Library/obj/Debug/netstandard2.0/Thermometer_Class_Library.dll
+/Users/khalilmaster/Projects/Thermometer/Thermometer_Class_Library/Thermometer_Class_Library/obj/Debug/netstandard2.0/Thermometer_Class_Library.pdb
