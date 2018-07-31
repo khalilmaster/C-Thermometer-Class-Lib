@@ -42,6 +42,7 @@ namespace Thermometer_Class_Library
             ThermometerProperties.DisplayInCelsius = displayUnits.Equals(Celsius);
         }
 
+        //array of data points
         public void SetupDefaultThresholds()
         {
             CreateThermometerThreshold("Boiling", 100, 5, true, false);
